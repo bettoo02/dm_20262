@@ -1,0 +1,7 @@
+- Declaración de variables: var (inferencia), tipos explícitos (int, double, String, bool), final y const.
+- Operadores aritméticos, relacionales y lógicos.
+- Interpolación de cadenas: `$variable` y `${expresión}`.
+- Entrada/salida básica: `print()` y formateo con `toStringAsFixed()`.
+- Comentarios.
+- Condicionales: `if` / `else if` / `else`, operador ternario, switch-case.
+- Funciones
